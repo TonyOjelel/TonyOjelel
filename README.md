@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Ojelel</h1>
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="center">A passionate Full Stack Engineer from Uganda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyojelel&label=Profile%20views&color=0e75b6&style=flat" alt="tonyojelel" /> </p>
 
