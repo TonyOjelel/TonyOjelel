@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@fire_tony123" target="blank"><img src="https://img.shields.io/twitter/follow/@fire_tony123?logo=twitter&style=for-the-badge" alt="@fire_tony123" /></a> </p>
 
-- 🌱 I’m currently learning **react.js, node.js, Angular, MongoDB, Python, JavaScript**
+- 🌱 I’m currently learning **Django, MySQL, PostgresSQL, Oracle, Next.js, Express.js, Flask, Golang**
 
-- 💬 Ask me about **React, Vue, JavaScript, Angular**
+- 💬 Ask me about **React.js, Vue.js, JavaScript, Bootstrap, Angular.js, node.js, MongoDB, Python,**
 
 - 📫 How to reach me **tonyojelel@gmail.com**
 
