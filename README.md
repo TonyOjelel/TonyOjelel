@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Tony Ojelel</h1>
-<h3 align="center">I'm a Full-Stack Software Developer and Mechanical Engineer.
+<h3 align="center">I'm a Full-Stack Software Developer 💻 and Mechanical Engineer 👨‍🔬.
 Whether I'm working on a web or mobile project, I always strive to deliver high-quality code and a seamless user experience. Let's connect and create something amazing together!
 </h3>
 
