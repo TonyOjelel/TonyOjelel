@@ -14,7 +14,7 @@ Whether I'm working on a web or mobile project, I always strive to deliver high-
 - 💬 Ask me about **React.js, Vue.js, JavaScript, Bootstrap, Angular.js, node.js, MongoDB, Python,**
 
 - 📫 How to reach me **tonyojelel@gmail.com**
-- 📫 Chat with AI-Tony **https://app.getmerlin.in/doppelgainger/fire_tony123**
+- 📫 Chat with my AI replica, AI-Tony **https://app.getmerlin.in/doppelgainger/fire_tony123**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
